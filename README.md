@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wfwahlberg
-- 👀 I’m interested in C++, game development, engineering, pretty much anything aerospace-related.
-- 🌱 I’m currently learning Unity and web development with Javascript.
+- 👀 I’m interested in C++, game development, arduino, engineering, pretty much anything aerospace-related.
+- 🌱 I’m currently learning html and css, but my main coding language is C++.
 - 📫 How to reach me: 
 
 <!---
